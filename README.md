@@ -51,7 +51,7 @@ This project strictly follows **SOLID** principles:
 
 ## Instalation
 
-```git clone git@github.com:Mk-Mkrtich/WindowShopApp.git ```\
+```git clone https://github.com/Mk-Mkrtich/WindowShop.git ```\
 ```cd window-shopping-app```\
 ```composer install```\
 ```cp .env.example .env```\
